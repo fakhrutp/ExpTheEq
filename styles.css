@@ -174,7 +174,7 @@ p {
 
 .hero {
   position: relative;
-  background: url(http://vrsource.com/wp-content/uploads/2016/05/cardboard-school.jpg) no-repeat center center fixed;
+  background: url(cardboard-school.jpg) no-repeat center center fixed;
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
